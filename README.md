@@ -36,13 +36,16 @@
 ## Overview
 
 - Where can you see a demo?
-You can find the demo of this project at [404-Not-Found Page](https://rajtanu1.github.io/404-Not-Found-devChallenges).
+ 
+  **Answer** : You can find the demo of this project at [404-Not-Found Page](https://rajtanu1.github.io/404-Not-Found-devChallenges).
 
 - What was your experience?
-Ran into some problems while learning how to implement mobile-first approach.
+ 
+  **Answer** : Ran into some problems while learning how to implement mobile-first approach.
 
 - What you learned/improved?
-Learned to create UI components that are responsive. And improved understanding of harmonious layout.
+  
+  **Answer** : Learned to create UI components that are responsive. And improved understanding of harmonious layout.
 
 ### Built With
 
